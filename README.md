@@ -1,6 +1,6 @@
 ### Olá, me chamo Gabriel.
 
-- Tenho 16 anos
+- 🏠 Tenho 16 anos
 - Nasci e moro no estado de Santa Catarina
 - Curso o 2º ano do Ensino Médio
 
@@ -9,16 +9,15 @@
 
 
 
-### Sou aluno do curso técnico em Informática 💻 do Colégio Satc.![brazilian-flag-3](https://user-images.githubusercontent.com/106177400/182230963-33b4c2dd-b68d-4e6e-adc9-622a6609fd40.gif)
-
-- Através do curso estou começando a aprender linguagens como Java, Python, C++ e SQL.
+### Aluno da 2ª fase do curso técnico em Informática 💻 do Colégio Satc.
+- 💻 Através do curso estou começando a aprender linguagens como Java, Python, C++ e SQL.
 
 
 ![tenor-1](https://user-images.githubusercontent.com/106177400/182230331-c9e691ea-68f1-4730-a2c9-94595c5c2339.gif)
 
 
 ### Jogos que gosto:
-- Fifa 19
+- 🎮 Fifa 19
 - Dream League Soccer
 
 
