@@ -1,7 +1,7 @@
 ### Olá, me chamo Gabriel.
 
-Sou aluno do curso técnico em Informática 💻 do Colégio Satc de Criciúma.
-Através do curso estou começando a aprender linguagens como Java, Python, C++ e SQL.
+### Sou aluno do curso técnico em Informática 💻 do Colégio Satc de Criciúma.
+### Através do curso estou começando a aprender linguagens como Java, Python, C++ e SQL.
 
 
 
