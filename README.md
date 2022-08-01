@@ -5,7 +5,12 @@
 - Curso o 2º ano do Ensino Médio
 
 
-### Sou aluno do curso técnico em Informática 💻 do Colégio Satc.
+![brazilian-flag-3](https://user-images.githubusercontent.com/106177400/182230985-e8eb9292-b7b2-4236-a565-f617de2a5ed7.gif)
+
+
+
+### Sou aluno do curso técnico em Informática 💻 do Colégio Satc.![brazilian-flag-3](https://user-images.githubusercontent.com/106177400/182230963-33b4c2dd-b68d-4e6e-adc9-622a6609fd40.gif)
+
 - Através do curso estou começando a aprender linguagens como Java, Python, C++ e SQL.
 
 
