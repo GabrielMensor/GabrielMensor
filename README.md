@@ -1,7 +1,7 @@
 ### Olá, me chamo Gabriel.
 
 - 🏠 Tenho 16 anos
-- Nasci e moro no estado de Santa Catarina
+- Nasci e moro no estado de Santa Catarina, Brasil
 - Curso o 2º ano do Ensino Médio
 
 
