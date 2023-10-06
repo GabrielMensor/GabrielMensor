@@ -21,9 +21,3 @@
 
 
 ![fifa](https://user-images.githubusercontent.com/106177400/182230610-14218b08-a5df-4d98-a0e5-2209bd1b1069.gif)
-
-
-### Outras redes sociais:
-
-<div>
-<a href="https://www.youtube.com/channel/UCtVMM4SALuLfQHSH5122ysg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
