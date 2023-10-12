@@ -27,7 +27,7 @@
 
 <div>
           <a href="https://github.com/GabrielMensor">
-          <img loading="lazy" height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMensor&layout=pie"/>
+          <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMensor&layout=pie&theme=radical"/>
 </div>
 
 ### Hobbie:
