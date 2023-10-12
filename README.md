@@ -21,11 +21,13 @@
           <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
           <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
-          
+
+<br/>
+<br/>
+
 <div>
           <a href="https://github.com/GabrielMensor">
-          <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMensor&layout=compact&langs_count=7&theme=dark"/>
-          <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMensor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+          <img loading="lazy" height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMensor&layout=pie"/>
 </div>
 
 ### Hobbie:
