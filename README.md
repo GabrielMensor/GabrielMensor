@@ -1,11 +1,8 @@
-### Olá, me chamo Gabriel.
-<div style="display: inline_block">
+### Olá, me chamo Gabriel
+
 - 🏠 Tenho 17 anos
 - Nasci e moro no estado de Santa Catarina, Brasil
-- Curso o 3º ano do Ensino Médio
-</div>
-
-<img src="https://emojitool.com/img/joypixels/7.0/flag-brazil-3403.png" alt="Brasil" height=50 width=50 style="display: inline_block">
+- Curso o 3º ano do Ensino Médio <img src="https://emojitool.com/img/joypixels/7.0/flag-brazil-3403.png" alt="Brasil" height=50 width=50 style="display: inline_block">
 
 
 ### Aluno da 4ª fase do curso técnico em Informática 💻 do Colégio Satc.
