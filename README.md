@@ -4,8 +4,8 @@
 - Nasci e moro no estado de Santa Catarina, Brasil
 - Curso o 3º ano do Ensino Médio
 
+<img src="https://emojitool.com/img/joypixels/7.0/flag-brazil-3403.png" alt="Brasil">
 
-![brazilian-flag-3](https://user-images.githubusercontent.com/106177400/182230985-e8eb9292-b7b2-4236-a565-f617de2a5ed7.gif)
 
 
 
