@@ -2,9 +2,9 @@
 
 - 🏠 Tenho 17 anos
 
-- Nasci e moro no estado de Santa Catarina, Brasil
+- Nasci e moro no estado de Santa Catarina, Brasil <img src="https://emojitool.com/img/joypixels/7.0/flag-brazil-3403.png" alt="Brasil" height=25 width=25 style="display: inline_block">
 
-- Curso o 3º ano do Ensino Médio <img src="https://emojitool.com/img/joypixels/7.0/flag-brazil-3403.png" alt="Brasil" height=25 width=25 style="display: inline_block">
+- Curso o 3º ano do Ensino Médio
 
 
 
@@ -22,10 +22,13 @@
           <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
           
-
-
+<div>
+          <a href="https://github.com/GabrielMensor">
+          <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMensor&layout=compact&langs_count=7&theme=dark"/>
+          <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMensor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
 
 ### Hobbie:
 - 🎮 Fifa
 
-![fifa](https://i.gifer.com/9GiA.gif)
+![fifa](https://media.tenor.com/42xdyTkTWqcAAAAC/fifa.gif)
