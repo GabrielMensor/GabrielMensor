@@ -17,7 +17,7 @@
           <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 <br/>
-##### teste
+<img loading="lazy" height="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMensor&layout=pie&theme=radical"/>
 <div>
           <a href="https://github.com/GabrielMensor">
           
