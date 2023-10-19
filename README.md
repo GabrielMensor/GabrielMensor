@@ -18,7 +18,6 @@
 </div>
 <br/>
 <img loading="lazy" height="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMensor&layout=pie&theme=radical"/>
-<br/>
 <div>
           <a href="https://github.com/GabrielMensor">
           
