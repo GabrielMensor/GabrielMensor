@@ -1,4 +1,4 @@
-### Olá, me chamo Gabriel
+## Olá, me chamo Gabriel
 
 - 🏠 Tenho 17 anos
 - Nasci e moro no estado de Santa Catarina, Brasil <img src="https://emojitool.com/img/joypixels/7.0/flag-brazil-3403.png" alt="Brasil" height=25 width=25 style="display: inline_block">
