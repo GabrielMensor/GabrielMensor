@@ -1,14 +1,13 @@
 ## Olá, me chamo Gabriel
 
-- 🏠 Tenho 17 anos
+- 🏠 Tenho 18 anos
 - Nasci e moro no estado de Santa Catarina, Brasil <img src="https://emojitool.com/img/joypixels/7.0/flag-brazil-3403.png" alt="Brasil" height=25 width=25 style="display: inline_block">
 
 
 ### Aluno do curso técnico em Informática 💻 do Colégio Satc.
-
-### Atualmente na 1ª fase de Engenharia de Computação.
-
 - 💻 Através do curso estou tendo contato tecnologias como Python, SQL e JavaScript.
+
+### Atualmente na 1ª fase de Engenharia de Computação na UniSatc.
 
 ### Principais Tecnologias e Ferramentas Atualmente em Aprofundamento:
 <div style="display: inline_block">
