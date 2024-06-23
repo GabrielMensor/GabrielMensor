@@ -5,7 +5,10 @@
 
 
 ### Aluno do curso técnico em Informática 💻 do Colégio Satc.
-- 💻 Através do curso estou tendo contato tecnologias como Python, SQL e JavaScript.
+- 💻 Tive contato tecnologias como Python, SQL e JavaScript.
+
+### Aluno de Engenharia de Computação 💻 na UniSatc.
+- 💻 Posso me aprofundar ainda mais em meus estudos.
 
 ### Atualmente na 1ª fase de Engenharia de Computação na UniSatc.
 
