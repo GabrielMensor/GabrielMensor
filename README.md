@@ -29,4 +29,4 @@
 ### Hobbies
 - Jogar Fifa
 
-![fifa](https://media.tenor.com/42xdyTkTWqcAAAAC/fifa.gif)
+![fifa](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXUzbTY0aDBuY2t4enE1bGw3NTk2aTZscmdidm9zZ3AwZ3V1ZW00cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VdR2Z22SBgoRLnx8GB/giphy.webp)
