@@ -10,7 +10,7 @@
 ### Aluno de Engenharia de Computação 💻 na UniSatc.
 - 💻 Posso me aprofundar ainda mais em meus estudos.
 
-### Atualmente na 1ª fase de Engenharia de Computação na UniSatc.
+### Atualmente na 2ª fase de Engenharia de Computação na UniSatc.
 
 ### Principais Tecnologias e Ferramentas Atualmente em Aprofundamento:
 <div style="display: inline_block">
