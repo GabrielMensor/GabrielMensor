@@ -4,7 +4,7 @@
 - 🏠 Nasci e moro no estado de Santa Catarina, Brasil <img src="https://emojitool.com/img/joypixels/7.0/flag-brazil-3403.png" alt="Brasil" height=25 width=25 style="display: inline_block">
 
 
-### Aluno do curso técnico em Informática 💻 do Colégio Satc.
+### Técnico em Informática 💻 do Colégio Satc.
 - 💻 Tive contato tecnologias como Python, SQL e JavaScript.
 
 ### Aluno de Engenharia de Computação 💻 na UniSatc.
