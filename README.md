@@ -7,7 +7,7 @@
 ### Técnico em Informática 💻 do Colégio Satc.
 - 💻 Tive contato tecnologias como Python, SQL e JavaScript.
 
-### Aluno da 3ª fase de Engenharia de Computação 💻 na UniSatc.
+### Aluno da 4ª fase de Engenharia de Computação 💻 na UniSatc.
 - 💻 Posso me aprofundar ainda mais em meus estudos.
 
 ### Principais Tecnologias e Ferramentas:
