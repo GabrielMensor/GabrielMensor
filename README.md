@@ -1,7 +1,7 @@
 ## Olá, me chamo Gabriel
 
 - Tenho 19 anos
-- 🏠 Nasci e moro no estado de Santa Catarina, Brasil <img src="https://emojitool.com/img/joypixels/7.0/flag-brazil-3403.png" alt="Brasil" height=25 width=25 style="display: inline_block">
+- 🏠 Nasci e moro no estado de Santa Catarina, Brasil
 
 
 ### Técnico em Informática 💻 do Colégio Satc.
@@ -25,8 +25,3 @@
           <a href="https://github.com/GabrielMensor">
           
 </div>
-
-### Hobbies
-- Jogar Fifa
-
-![fifa](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXUzbTY0aDBuY2t4enE1bGw3NTk2aTZscmdidm9zZ3AwZ3V1ZW00cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VdR2Z22SBgoRLnx8GB/giphy.webp)
