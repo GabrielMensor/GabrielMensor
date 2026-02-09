@@ -1,13 +1,13 @@
 ## Olá, me chamo Gabriel
 
-- Tenho 19 anos
+- Tenho 20 anos
 - 🏠 Nasci e moro no estado de Santa Catarina, Brasil
 
 
 ### Técnico em Informática 💻 do Colégio Satc.
 - 💻 Tive contato tecnologias como Python, SQL e JavaScript.
 
-### Aluno da 4ª fase de Engenharia de Computação 💻 na UniSatc.
+### Aluno da 5ª fase de Engenharia de Computação 💻 na UniSatc.
 - 💻 Posso me aprofundar ainda mais em meus estudos.
 
 ### Principais Tecnologias e Ferramentas:
